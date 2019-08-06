@@ -1,0 +1,25 @@
+{
+"catalogo": [
+{
+    "producto": "Ajo",
+    "cantidad": 8,
+    "precio": 20
+},
+
+{
+    "producto": "Tomate",
+    "cantidad": 45,
+    "precio": 14
+},
+
+{
+    "producto": "Tomate",
+    "cantidad": 45,
+    "precio": 14
+}
+
+]
+
+}
+
+

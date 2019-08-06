@@ -1,0 +1,99 @@
+{
+    "list": [
+    {
+        "id":0,
+        "producto": "Ajo",
+        "cantidad": 8,
+        "precio": 20,
+        "img": "./images/ajo.jpg"
+    },
+    {
+      "id":1,
+      "producto": "Tomate",
+      "cantidad": 45,
+      "precio": 14,
+      "img":"./images/tomate.jpg"
+  },
+  
+  {
+      "id":2,  
+      "producto": "Cebolla",
+      "cantidad": 45,
+      "precio": 14,
+      "img":"./images/cebolla.jpg"
+  },
+  {
+    "id":3,
+    "producto": "Papas",
+    "cantidad": 6,
+    "precio": 46,
+    "img":"./images/papa.jpg"
+  },
+
+  {
+    "id":4,
+    "producto": "Fresas",
+    "cantidad": 6,
+    "precio": 46,
+    "img":"./images/fresa.jpg"
+  },
+
+  {
+    "id":5,
+    "producto": "Pasta",
+    "cantidad": 100,
+    "precio": 46,
+    "img":"./images/pasta.jpg"
+  },
+
+  {
+    "id":6,
+    "producto": "Repollo",
+    "cantidad": 100,
+    "precio": 4,
+    "img":"./images/repollo.jpg"
+  },
+
+  {
+    "id":7,
+    "producto": "Maiz",
+    "cantidad": 100,
+    "precio": 4,
+    "img":"./images/maiz.jpg"
+  },
+
+  {
+    "id":8,
+    "producto": "Naranjas",
+    "cantidad": 6,
+    "precio": 46,
+    "img":"./images/naranja.jpg"
+  },
+
+  {
+    "id":9,
+    "producto": "Kiwi",
+    "cantidad": 6,
+    "precio": 46,
+    "img":"./images/kiwi.jpg"
+  },
+
+  {
+    "id":10,
+    "producto": "Manzana",
+    "cantidad": 100,
+    "precio": 4,
+    "img":"./images/manzana.jpg"
+  },
+
+  {
+    "id":11,
+    "producto": "Limon",
+    "cantidad": 6,
+    "precio": 46,
+    "img":"./images/limon.jpg"
+  }
+
+  ]
+}     
+    
